@@ -5,3 +5,4 @@ valor = int(input("Digite um número"))
 valor2x = (valor*2)
 
 print("O dobro do número escolhido é:", valor2x)
+
